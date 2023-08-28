@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kedarnath-Rothe
 - 👀 I’m interested in Web development,DSA
-- ✨ I have learned HTML,CSS,Java Script,Node js,Express js
-- 🌱 I’m currently learning React js
+- ✨ I have knowledge of programing languages --> Java , basic C++ & python
+- ✨ I have learned HTML,CSS,Java Script,Node js,Express js, Database MongoDB and Mongoose, RESTfull API
+- 🌱 I’m currently learning React.js , DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
