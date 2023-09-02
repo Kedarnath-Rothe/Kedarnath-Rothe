@@ -3,8 +3,7 @@
 - ✨ I have knowledge of programing languages --> Java , basic C++ & python
 - ✨ I have learned HTML,CSS,Java Script,Node js,Express js, Database MongoDB and Mongoose, RESTfull API
 - 🌱 I’m currently learning React.js , DevOps ,GitHub
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 kedarrothe05@gmail.com
 
 <!---
 Kedarnath-Rothe/Kedarnath-Rothe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
