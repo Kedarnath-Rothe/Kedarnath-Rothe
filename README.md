@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kedarnath-Rothe
+- 👋 Hey, I’m @Kedarnath-Rothe
 - 👀 I’m interested in Web development,DSA
 - ✨ I have knowledge of programing languages --> Java , basic C++ & python
 - ✨ I have learned HTML,CSS,Java Script,Node js,Express js, Database MongoDB and Mongoose, RESTfull API
