@@ -15,7 +15,7 @@
 
 - 👀 I’m interested in **Web Development, DSA**
 
-- 👨‍💻 All of my projects are available at [https://kedarnath-rothe05.netlify.app/](https://kedarnath-rothe05.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kedarnath-rothe05.netlify.app/](https://kedar.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
