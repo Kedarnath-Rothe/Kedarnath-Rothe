@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Development**
 
-- 👀 I’m interested in **Web Development, DSA**
+- 👀 I’m interested in **Web Development, DSA, MERN Stack Project**
 
 - 👨‍💻 All of my projects are available at [kedarrothe.com](https://kedar.vercel.app/)
 
